@@ -194,15 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🔗 Connect With Me
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Blog**: [Your Security Blog](https://yoursecurityblog.com)
-
----
-
 <div align="center">
 
 **⭐ Star this repository if you found it helpful! ⭐**
